@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-lightgrey)
 
 # Tools
 ### Professional
@@ -43,15 +44,20 @@ For my full professional profile, please visit my LinkedIn:
 
 # More Information
 - DevOps
-- Agile Methodologies
+  - Agile Methodologies
+  - Continuous Integration & Delivery
 - Linux
-- Bash
+  - Bash/GitBash
+  - Ubuntu
 - Git/GitHub
+  - Source Control
 - Python
   - Test Driven Development (TDD)
 - Virtual Machines
   - Vagrant
   - Bash Configuration
+  - Mongodb
+  - Nginx
 - Amazon Web Services
   - VPCs
   - Cloud Networks
