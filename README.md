@@ -64,6 +64,3 @@ For my full professional profile, please visit my LinkedIn:
   - SR3 Disaster Recovery
 - Ansible Automation
 - Jenkins CI/CD/E Pipelines
-
-### Vistitor Counter
-![Visitor Count](https://profile-counter.glitch.me/kbachir/count.svg)
