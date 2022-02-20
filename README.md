@@ -14,7 +14,7 @@
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white)
 
-# Methodolgies & Frameworks
+# Methodologies & Frameworks
 ![Agile](https://img.shields.io/badge/-Agile-2496ED?style=flat&logo=Agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/-Scrum-2496ED?style=flat&logo=Scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/-Kanban-blue)
