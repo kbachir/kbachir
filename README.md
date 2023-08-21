@@ -68,5 +68,4 @@ For my full professional profile, please visit my LinkedIn:
   - Load balancing & auto-scaling
   - Cloudwatch Monitoring
   - SR3 Disaster Recovery
-- Ansible Automation
 - Jenkins CI/CD/E Pipelines
